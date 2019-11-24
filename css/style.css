@@ -1,0 +1,100 @@
+.section-heading {
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 4em;
+}
+
+img {
+    pointer-events: none;
+}
+
+.img-size {
+    margin: 0 auto;
+    width: 256px;
+    height: 256px;
+    margin-bottom: 3em;
+}
+
+.fa-5x{
+    font-size:300px !important;
+}
+
+.cep {
+    text-align: center;
+}
+
+.line-1{
+    position: relative;
+    top: 5%;  
+    width: 24em;
+    /* margin: 0 auto; */
+    margin-top: 5em;
+    border-right: 2px solid rgba(255,255,255,.75);
+    font-size: 100%;
+    /* text-align: center; */
+    white-space: nowrap;
+    overflow: hidden;
+    /* transform: translateY(-50%);     */
+}
+
+/* Animation */
+.anim-typewriter{
+animation: typewriter 2s steps(44) 1s 1 normal both,
+blinkTextCursor 500ms steps(44) infinite normal;
+}
+@keyframes typewriter{
+from{width: 0;}
+to{width: 14em;}
+}
+@keyframes blinkTextCursor{
+from{border-right-color: rgba(255,255,255,.75);}
+to{border-right-color: transparent;}
+}
+
+.setsumei {
+    font-weight: bold;
+    font-size: 120%;
+    padding-bottom: 1em;
+}
+
+.rotate_test {
+    transition: 0.5s;             /* 1秒かけて動く */
+}
+ 
+.rotate_test:hover {
+    transform: rotate(360deg);  /* マウスオーバー時に回転 */
+}
+
+.btn04 {
+    background-color: #3169d1;
+    /* border: 2px solid #3169d1; */
+    /* color: #fff !important; */
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+}
+.btn04:hover {
+    background-color: transparent;
+    /* border: 2px solid #998bfa; */
+    color: #998bfa !important;
+}
+
+.sns {
+    margin-top: 1em;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.git {
+    color: black !important;
+}
+
+.git:hover {
+    color: green !important;
+}
+
+.mag {
+    padding-bottom: 3em;
+}
