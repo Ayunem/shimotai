@@ -6,3 +6,4 @@
 
 ※*文面は拘っていないのでデタラメです*  
 
+ayunem.github.io/shimotai
