@@ -6,4 +6,4 @@
 
 ※*文面は拘っていないのでデタラメです*  
 
-ayunem.github.io/shimotai
+[portfolio](ayunem.github.io/shimotai)
