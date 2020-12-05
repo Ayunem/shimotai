@@ -1,10 +1,8 @@
 # shimotai
 
 
-### Bulmaを用いて友達のポートフォリオサイトのプロトタイプ構築しました😘
+Bulmaを用いて友達のポートフォリオサイトのプロトタイプ構築😘
 
 ※*作成にあたって画像の使用許可を頂いております*  
 
-※*文面は拘っていないのでデタラメです*  
-
-[みちゃだめ](https://ayunem.github.io/shimotai/)　スマホ対応
+[スマホ対応](https://ayunem.github.io/shimotai/)
